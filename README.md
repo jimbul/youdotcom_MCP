@@ -1,6 +1,6 @@
 # You.com MCP Server
 
-This MCP (Model Context Protocol) server provides Claude AI assistants with the ability to search the web, get news, and perform research using the You.com API.
+This MCP (Model Context Protocol) server provides Claude AI assistants with the ability to search the web, get news, and perform research using the You.com API. Feedback welcomed.
 
 ## Features
 
