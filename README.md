@@ -2,6 +2,10 @@
 
 This MCP (Model Context Protocol) server provides AI assistants with the ability to search the web, get news, and perform research using the You.com API. Feedback welcomed.
 
+<a href="https://glama.ai/mcp/servers/@jimbul/youdotcom_MCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@jimbul/youdotcom_MCP/badge" alt="You.com Server MCP server" />
+</a>
+
 ## Features
 
 - **Web Search**: Access to You.com's web search functionality
